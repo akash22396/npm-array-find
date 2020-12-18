@@ -1,0 +1,27 @@
+{
+  "name": "array-find",
+  "version": "1.0.0",
+  "description": "this npm package help to user find the data from the array in javascript. user can find data with/without object name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array-find",
+    "npm-array-find",
+    "data-find",
+    "javascript-array-find",
+    "array-data-find",
+    "array-data-find-with-objectname",
+    "array",
+    "find",
+    "javascript"
+  ],
+  "author": "akash kumar singh",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akash22396/npm-array-find"
+  }
+  
+}
